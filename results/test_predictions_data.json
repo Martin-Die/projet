@@ -1,0 +1,58 @@
+[
+  {
+    "sample_id": 1,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Potato___Early_blight",
+    "confidence": 0.31046003103256226,
+    "correct": false
+  },
+  {
+    "sample_id": 2,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "confidence": 0.2663733959197998,
+    "correct": false
+  },
+  {
+    "sample_id": 3,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Potato___Early_blight",
+    "confidence": 0.34705039858818054,
+    "correct": false
+  },
+  {
+    "sample_id": 4,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Potato___Early_blight",
+    "confidence": 0.24911002814769745,
+    "correct": false
+  },
+  {
+    "sample_id": 5,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Tomato_Septoria_leaf_spot",
+    "confidence": 0.677470862865448,
+    "correct": false
+  },
+  {
+    "sample_id": 6,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Pepper__bell___Bacterial_spot",
+    "confidence": 0.3991311490535736,
+    "correct": true
+  },
+  {
+    "sample_id": 7,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "confidence": 0.9187749028205872,
+    "correct": false
+  },
+  {
+    "sample_id": 8,
+    "true_class": "Pepper__bell___Bacterial_spot",
+    "predicted_class": "Tomato_Spider_mites_Two_spotted_spider_mite",
+    "confidence": 0.7230225801467896,
+    "correct": false
+  }
+]

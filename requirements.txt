@@ -1,0 +1,19 @@
+# Deep Learning et Computer Vision
+tensorflow>=2.10.0
+numpy>=1.21.0
+matplotlib>=3.5.0
+Pillow>=9.0.0
+scikit-learn>=1.1.0
+
+# API et Web
+fastapi>=0.95.0
+uvicorn[standard]>=0.20.0
+python-multipart>=0.0.6
+
+# Utilitaires
+pathlib2>=2.3.7
+requests>=2.28.0
+
+# Développement (optionnel)
+jupyter>=1.0.0
+ipykernel>=6.0.0 
